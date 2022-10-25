@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "wiboe_dev_v2",
+      "cwd": "/home/ubuntu/projects/wiboe_dev_v2",
+      "args": "-P 8001",
+      "script": "app.py",
+      "exec_mode": "fork",
+      "exec_interpreter": "python3",
+      "error_file": "/home/ubuntu/projects/wiboe_dev_v2/logs/wiboe.log",
+      "out_file": "/home/ubuntu/projects/wiboe_dev_v2/logs/wiboe.log"
+    }
+  ]
+}

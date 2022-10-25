@@ -1,0 +1,14 @@
+{
+  "request_weather": [
+    "{weather_info}"
+  ],
+  "request_weather_tomorrow": [
+    "제가 아직 미래의 날씨 예보는 하지 못해요. 빠른시일내에 그 기능도 탑재하도록 할게요."
+  ],
+  "request_weather_day_after_tomorrow": [
+    "제가 아직 미래의 날씨 예보는 하지 못해요. 빠른시일내에 그 기능도 탑재하도록 할게요."
+  ],
+  "guide_weather": [
+    "날씨가 궁금하시면, 날씨 알려줘, 하고 저에게 말씀해 주세요."
+  ]
+}

@@ -1,0 +1,11 @@
+flask
+Flask-API
+nltk
+pymongo
+pymysql
+python-automaton
+redis
+numpy
+pandas
+konlpy
+sklearn

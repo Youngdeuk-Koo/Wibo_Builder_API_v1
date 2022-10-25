@@ -1,0 +1,11 @@
+{
+  "play_music_keyword": [
+    "@music"
+  ],
+  "play_next_music_keyword": [
+    "다른 @music",
+    "다음 @music",
+    "다른거",
+    "딴거"
+  ]
+}

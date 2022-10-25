@@ -1,0 +1,14 @@
+{
+  "request_date": [
+    "며칠",
+    "날짜"
+  ],
+  "request_month": [
+    "몇월달",
+    "몇월"
+  ],
+  "request_weekday": [
+    "무슨요일",
+    "몇요일"
+  ]
+}

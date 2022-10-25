@@ -1,0 +1,11 @@
+{
+  "request_date": [
+    "{target} {year}년, {month}월, {day}일, {weekday}요일 입니다."
+  ],
+  "request_month": [
+    "{target}은 {month}월 입니다."
+  ],
+  "request_weekday": [
+    "{target}은 {weekday}요일 입니다."
+  ]
+}

@@ -1,0 +1,8 @@
+
+{
+    "request_weather":"WeatherAdapter",
+    "request_date":"DateAdapter",
+    "request_time":"TimeAdapter",
+    "request_music":"MusicAdapter",
+    "request_air_pollution":"AirPollutionAdapter"
+}

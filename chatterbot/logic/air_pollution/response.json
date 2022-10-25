@@ -1,0 +1,26 @@
+{
+  "request_air_pollution": [
+    "{air_pollution_info}"
+  ],
+  "request_air_pollution_good": [
+    "{air_pollution_info}"
+  ],
+  "request_air_pollution_normal": [
+    "{air_pollution_info}"
+  ],
+  "request_air_pollution_bad": [
+    "{air_pollution_info}"
+  ],
+  "request_air_pollution_verybad": [
+    "{air_pollution_info}"
+  ],
+  "request_air_pollution_tomorrow": [
+    "제가 아직 내일 미세먼지 예보는 하지 못해요. 빠른시일내에 그 기능도 탑재하도록 할게요"
+  ],
+  "request_air_pollution_day_after_tomorrow": [
+    "제가 아직 미세먼지 예보는 하지 못해요. 빠른시일내에 그 기능도 탑재하도록 할게요"
+  ],
+  "guide_air_pollution": [
+    "미세먼지 농도가 궁금하시면, 미세먼지 어때?, 하고 저에게 말씀해 주세요."
+  ]
+}
